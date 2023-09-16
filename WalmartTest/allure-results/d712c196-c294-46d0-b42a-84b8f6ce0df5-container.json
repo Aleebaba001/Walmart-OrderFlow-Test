@@ -1,0 +1,1 @@
+{"uuid":"d712c196-c294-46d0-b42a-84b8f6ce0df5","name":"WalmartTest","children":["dd6260a5-f754-4a0f-afb5-d4d8ce8028d0"],"befores":[{"name":"start","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1694853796944,"stop":1694853816921}],"afters":[],"start":1694853796933,"stop":1694853823402}
